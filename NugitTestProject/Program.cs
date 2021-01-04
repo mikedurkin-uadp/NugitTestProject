@@ -6,7 +6,7 @@ namespace NugitTestProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello again Github!");
+            Console.WriteLine("Hello Github!");
         }
     }
 }
